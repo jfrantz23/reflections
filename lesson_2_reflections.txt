@@ -1,0 +1,6 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+	so far I haven't noticed much because the repository hasn't had any changes to it yet. withouth the repository git has nothing to check.
+2.How is the staging area different from the working directory and the repository? What value do you think it offers?
+	the staging area are files being prepped for the git repository so that they may be commited and used for later. as opposed to the working directory which are files
+	currently in the directory but are not prepped to be commited. the staging area allows you to pick which files you want to save and lump together, rather than dealing
+	with every single file in the directory.
