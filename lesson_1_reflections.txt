@@ -1,0 +1,21 @@
+1. How did viewing a diff between two versions of a file help you see the bug that was introduced?
+    it reduced the amount of work considerably. rather than searching through countless lines of code, I was able to search only a few lines and find the problem instead.
+
+2. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+    If i were coding a program I would likely be making a lot of changes and only 1 of them might have broken the code. if I had many versions I could pinpoint exactly what was breaking it much easier.
+
+3. What do you think are the pros and cons of manually choosing when to create a commit like you do in Git, vs having versions automatically saved, like google docs does?
+    pros-it gives much more flexability when saving files, like after fixing a bug or making an important update/change
+    cons-if you forget to save after important changes, your version may contain a lot of bugs/changes from previous versions and it will become more work later.
+
+4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each fie separately.
+    Git seems created more for the purpose of making programming easier, where as google docs and the others are more for writing papers for like an office or school/business.
+
+5. How can you use the commands git log and git diff to view the history of files?
+    you can see what changed and when it changed by searching through the commits with git log. and you can pinpoint exact difference between the files with git diff
+
+6. How might using version control make you more confident to make changes that could break something?
+    version control makes narrowing down what broke the code extremely efficient and easy to detect
+
+7. Now that you have your workspace set up, what do you want to try using Git for?
+    I was learning git because some of the other courses in hthml/css/java were using it so i needed to be familiar
