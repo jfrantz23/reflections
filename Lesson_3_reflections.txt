@@ -1,2 +1,4 @@
 When would you want to use a remote repository rather than keeping all your work local?
 if you were on a different computer other than your usual one it would be a nice way to use the files from another location.
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+there might be a file created by another user that you don't want or maybe some changes you were working on that you decided later you didn't actually want, and if it auto updated it would mess up your remote repository.
