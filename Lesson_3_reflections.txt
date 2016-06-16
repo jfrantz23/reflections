@@ -8,3 +8,5 @@ What is the benefit of having a copy of the last known state of the remote store
 it lets you have an "original" copy of the file in case somewhere were to update the github and you didnt like the changes, you could still have the older version to look back at.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 without github I would probably have to use another form of version control like google docs or something but those seem a more simple and lacking than the features offered here. 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+if you have experimental changes that you aren't sure should be in the master branch just yet you can make a seperate one to test out the changes. the benefits would be not losing or messing up the working master branch, this does take a little more work and extra steps, but in the long run can save a lot of time.
